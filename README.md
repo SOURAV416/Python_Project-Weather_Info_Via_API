@@ -12,8 +12,10 @@ You can find these weather information in real time by just typing the city name
 
 
 Project requirements
-Python version 3.6 and above (although lower version should also work)
+Python version 3.6 and above (although lower version should also work).
+
 Python requests module should be installed.
+
 Free account on OpenWeatherMap and api access token.
 
 
